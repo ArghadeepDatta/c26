@@ -1,2 +1,2 @@
-# angryBirdsStage2
-Angry Birds stage 2 with Class Inheritance and Images
+Arghadeep created angry birds game with images and inheritance concepts!! 
+Yayy it was fun!!
